@@ -1,2 +1,2 @@
-# python-analytics-homework1
+# python-analytics
 новий репозиторій ДЗ
